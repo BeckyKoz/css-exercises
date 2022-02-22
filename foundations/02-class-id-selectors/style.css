@@ -15,7 +15,8 @@ p.third-element {
 }
 
 #fourth-element {
-    color: lightgreen;
+    color: black;
+    background-color: lightgreen;
     font-size: 24px;
     font-weight: bold;
 }
